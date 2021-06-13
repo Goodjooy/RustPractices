@@ -1,5 +1,5 @@
 # RustPractices
-a practice project collet in read me
+* rust 练习项目收集
 
 * [中缀表达式转为后缀表达式](https://github.com/Goodjooy/RsInfixExpressToSuffixExpress)
 * [xml解析器](https://github.com/Goodjooy/RsXmlLoader)
